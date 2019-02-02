@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     flattened_active_admin (0.0.7)
-      rails (>= 3.2.0)
+      rails
 
 GEM
   remote: https://rubygems.org/
